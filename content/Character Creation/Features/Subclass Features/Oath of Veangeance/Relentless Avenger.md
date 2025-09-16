@@ -1,0 +1,1 @@
+Your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature’s Speed to 0, and you can then move up to half your Speed as part of the same Reaction. This movement doesn’t provoke Opportunity Attacks.

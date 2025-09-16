@@ -1,0 +1,2 @@
+*10th-level Path of the Warden feature*
+You can draw upon your connection to the natural world to shield you from harmful magics. When a creature that you can see damages you with a spell, you can use your reaction to expend a spell slot of 1st-level or higher to grant yourself resistance to all damage from the triggering spell.

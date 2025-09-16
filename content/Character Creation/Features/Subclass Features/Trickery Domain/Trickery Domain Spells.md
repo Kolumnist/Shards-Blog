@@ -1,0 +1,9 @@
+Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.
+##### Trickery Domain Spells
+
+| Cleric Level | Prepared Spells                                                                                                                                                                                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3            | [Charm Person](http://dnd2024.wikidot.com/spell:charm-person), [Disguise Self](http://dnd2024.wikidot.com/spell:disguise-self), [Invisibility](http://dnd2024.wikidot.com/spell:invisibility), [Pass without Trace](http://dnd2024.wikidot.com/spell:pass-without-trace) |
+| 5            | [Hypnotic Pattern](http://dnd2024.wikidot.com/spell:hypnotic-pattern), [Nondetection](http://dnd2024.wikidot.com/spell:nondetection)                                                                                                                                     |
+| 7            | [Confusion](http://dnd2024.wikidot.com/spell:confusion), [Dimension Door](http://dnd2024.wikidot.com/spell:dimension-door)                                                                                                                                               |
+| 9            | [Dominate Person](http://dnd2024.wikidot.com/spell:dominate-person), [Modify Memory](http://dnd2024.wikidot.com/spell:modify-memory)                                                                                                                                     |

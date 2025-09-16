@@ -1,0 +1,3 @@
+If you are invisible or hidden when you cast a spell on a creature, it has Disadvantage on any saving throw it makes against the spell on the same turn.
+
+You may create a magical trap, that uses one of your spells, this takes 10 minutes. You may only have one trap at the same time and it can only be a spell you can cast. The trap may be activated remotely, after certain time or when smth is in range. (This functions as a makeshift magic bomb)

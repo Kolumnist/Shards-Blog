@@ -1,0 +1,1 @@
+As a Bonus Action, you can cause up to two creatures of your choice that you can see within 60 feet of you take fire damage equal to your Constitution modifier (minimum of 1).

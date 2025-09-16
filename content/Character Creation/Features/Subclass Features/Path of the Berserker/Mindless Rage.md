@@ -1,0 +1,1 @@
+You have Immunity to the Charmed or Frightened condition and you have advantage on Charisma and Wisdom Saving Throws while raging. If you are Charmed or Frightened when you enter your Rage, the condition ends on you.

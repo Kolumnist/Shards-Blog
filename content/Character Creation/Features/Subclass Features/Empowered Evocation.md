@@ -1,1 +1,0 @@
-Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast.

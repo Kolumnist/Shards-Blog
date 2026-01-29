@@ -1,0 +1,1 @@
+Ancient shadows lies so heavily upon you that it forms an shadow ward. you and your allies have resistance to Necrotic, Psychic, and Radiant damage while in your Aura of Protection. If you are standing in the Dark you gain a +1 on Stealth Rolls.

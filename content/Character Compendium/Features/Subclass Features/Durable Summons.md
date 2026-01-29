@@ -1,0 +1,1 @@
+Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.

@@ -1,0 +1,2 @@
+_14th-level Path of the Warden feature_  
+Your Rage and connection with primal spirits have fused to become something that rivals the great destructive forces of nature. When you take the Attack action while Raging, you can cast a Warden spell in place of one of your attacks.

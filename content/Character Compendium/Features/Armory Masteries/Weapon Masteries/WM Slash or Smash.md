@@ -1,0 +1,1 @@
+Your attacks deal either Slashing or Bludgeoning damage (your choice). Slashing damage increases the damage against targets with light or no armor by 2.

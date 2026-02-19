@@ -1,0 +1,1 @@
+Whenever you deal damage to a creature, until the start of your next turn, you reduce its Speed by 10 feet. Enemies with Natural or No Armor have their speed reduced by 15 instead. (The effects do not stack)

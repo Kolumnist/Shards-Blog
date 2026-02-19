@@ -1,25 +1,47 @@
 # Barbarian
-
+## Info
+---
 **Hit Point Die:** D12 per Barbarian level
 
-> **1st -** [[Rage]], [[Unarmored Defense]], [[Feral Charge]], [[Armory Mastery]](1)
-> **2nd -** [[Reckless Attack]], [[Danger Sense]], [[Armory Mastery]](1)
-> **3rd -** [[Primal Path]], [[Primal Knowledge]]
-> **4th -** Choose one: Ability Score Improvement or General Feat
-> **5th -** [[Extra Attack]], [[Fast Movement]], [[Armory Mastery]](1)
-> **6th -** [[Primal Path|Primal Path Feature]], [[Battle Hardened]]
-> **7th -** [[Feral Instinct]], [[Instinctive Pounce]]
-> **8th -** Choose one: Ability Score Improvement or General Feat
-> **9th -** [[Brutal Strike]], [[Adrenaline Rush]]
-> **10th -** [[Primal Path|Primal Path Feature]]
-# Proficiencies
+| Level  | Features                                                        | **[[Armory Mastery]]** |
+| :----: | :-------------------------------------------------------------- | :--------------------: |
+| **1**  | [[Feral Charge]], [[Rage]], [[Unarmored Defense]]               |           0            |
+| **2**  | [[Danger Sense]], [[Reckless Attack]]                           |           3            |
+| **3**  | [[Primal Path]], [[Primal Knowledge]]                           |           3            |
+| **4**  | Choose one: Ability Score Improvement or General Feat           |           3            |
+| **5**  | [[Extra Attack]], [[Fast Movement]]                             |           4            |
+| **6**  | [[Primal Path\|Primal Path Feature]]                            |           4            |
+| **7**  | [[Feral Instinct]], [[Instinctive Pounce]], [[Battle Hardened]] |           4            |
+| **8**  | Choose one: Ability Score Improvement or General Feat           |           4            |
+| **9**  | [[Brutal Strike]], [[Adrenaline Rush]]                          |           4            |
+| **10** | [[Primal Path\|Primal Path Feature]]                            |           4            |
+
+## Proficiencies
 ---
 **Armor:** Light Armor, Medium Armor, Shields
 
-**Weapons:** Simple Weapons, Martial Weapons
+**Weapon:** Simple Weapons, Martial Weapons
 
 **Saving Throws:** Strength, Constitution
 
 **Skills:** _Choose 2:_ Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival.
-# Features
+
+## Features
 ---
+![[Feral Charge]]
+![[Rage]]
+![[Unarmored Defense]]
+![[Danger Sense]]
+![[Reckless Attack]]
+![[Primal Knowledge]]
+![[Extra Attack]]
+![[Fast Movement]]
+![[Feral Instinct]]
+![[Instinctive Pounce]]
+![[Battle Hardened]]
+![[Brutal Strike]]
+![[Adrenaline Rush]]
+
+## Subclass
+---
+![[Primal Path]]

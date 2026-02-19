@@ -1,0 +1,1 @@
+Your attacks deal either Piercing or Bludgeoning damage (your choice). Piercing damage deals applies 1 Bleed.

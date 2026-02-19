@@ -1,0 +1,1 @@
+Reload does not concern you. You may load and fire equal to the number of available attacks you possess.

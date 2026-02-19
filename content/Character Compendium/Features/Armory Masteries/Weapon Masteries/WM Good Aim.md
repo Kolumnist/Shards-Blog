@@ -1,0 +1,1 @@
+Your effective throwing/attack range is doubled.

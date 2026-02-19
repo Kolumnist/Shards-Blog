@@ -1,18 +1,21 @@
 # Paladin
-
+## Info
+---
 **Hit Point Die:** D10 per Paladin level
 
-> **1st -** [[Lay on Hands]], [[Paladin Spellcasting|Spellcasting]], [[Armory Mastery]](1)
-> **2nd -** [[Fighting Style]], [[Paladin's Smite]]
-> **3rd -** [[Channel Divinity]], [[Sacred Oath]], [[Armory Mastery]](1)
-> **4th -** Choose one: Ability Score Improvement or General Feat
-> **5th -** [[Extra Attack]], [[Faithful Steed]]
-> **6th -** [[Aura of Protection]]
-> **7th -** [[Sacred Oath|Sacred Oath Feature]]
-> **8th -** Choose one: Ability Score Improvement or General Feat
-> **9th -** [[Abjure Foes]]
-> **10th -** [[Aura of Courage]]
-# Proficiencies
+| Level  | Features                                                 | **[[Armory Mastery]]** | **[[Channel Divinity]]** Charges | Prepared Spells |
+| :----: | :------------------------------------------------------- | :--------------------: | :------------------------------: | --------------- |
+| **1**  | [[Lay on Hands]], [[Paladin Spellcasting\|Spellcasting]] |           0            |                2                 | 2               |
+| **2**  | [[Fighting Style]], [[Paladin's Smite]]                  |           2            |                2                 | 3               |
+| **3**  | [[Channel Divinity]], [[Sacred Oath]]                    |           2            |                2                 | 4               |
+| **4**  | Choose one: Ability Score Improvement or General Feat    |           2            |                2                 | 5               |
+| **5**  | [[Extra Attack]], [[Faithful Steed]]                     |           2            |                2                 | 6               |
+| **6**  | [[Aura of Protection]]                                   |           2            |                3                 | 6               |
+| **7**  | [[Sacred Oath\|Sacred Oath Feature]]                     |           3            |                3                 | 7               |
+| **8**  | Choose one: Ability Score Improvement or General Feat    |           3            |                3                 | 7               |
+| **9**  | [[Abjure Foes]]                                          |           3            |                3                 | 9               |
+| **10** | [[Aura of Courage]]                                      |           3            |                3                 | 9               |
+## Proficiencies
 ---
 **Armor:** Light Armor, Medium Armor, Heavy Armor, Shields
 
@@ -21,7 +24,7 @@
 **Saving Throws:** Wisdom, Charisma
 
 **Skills:** _Choose 2:_ Athletics, Insight, Intimidation, Medicine, Persuasion, or Religion
-# Features
+## Features
 ---
 # Penance
 

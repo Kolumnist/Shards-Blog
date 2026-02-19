@@ -2,28 +2,30 @@
 
 **Hit Point Die:** D8 per Rogue level
 
-> **1st -** [[Expertise]], [[Sneak Attack]]
-> **2nd -** [[Cunning Action]], [[Armory Mastery]](1)
-> **3rd -** [[Chosen Thread]], [[Steady Aim]]
-> **4th -** Choose one: Ability Score Improvement or General Feat
-> **5th -** [[Cunning Strike]], [[Uncanny Dodge]], [[Armory Mastery]](1)
-> **6th -** [[Expertise]]
-> **7th -** [[Evasion]], [[Reliable Talent]]
-> **8th -** Choose one: Ability Score Improvement or General Feat
-> **9th -** [[Chosen Thread|Chosen Thread Feature]]
-> **10th -** Choose one: Ability Score Improvement or General Feat
-# Proficiencies
+| Level  | Features                                              | **[[Armory Mastery]]** | [[Sneak Attack]] Damage |
+| :----: | :---------------------------------------------------- | :--------------------: | :---------------------: |
+| **1**  | [[Expertise]], [[Sneak Attack]]                       |           0            |           1d6           |
+| **2**  | [[Cunning Action]]                                    |           2            |           1d6           |
+| **3**  | [[Chosen Thread]], [[Steady Aim]]                     |           2            |           2d6           |
+| **4**  | Choose one: Ability Score Improvement or General Feat |           2            |           2d6           |
+| **5**  | [[Cunning Strike]], [[Uncanny Dodge]]                 |           3            |           3d6           |
+| **6**  | [[Expertise]]                                         |           3            |           3d6           |
+| **7**  | [[Evasion]], [[Reliable Talent]]                      |           3            |           4d6           |
+| **8**  | Choose one: Ability Score Improvement or General Feat |           3            |           4d6           |
+| **9**  | [[Chosen Thread\|Chosen Thread Feature]]              |           3            |           5d6           |
+| **10** | Choose one: Ability Score Improvement or General Feat |           3            |           5d6           |
+## Proficiencies
 ---
 **Armor:** Light Armor
 
 **Weapons:** Simple Weapons, Martial Weapons that have the Finesse or Light property
 
-**Tools:** Thieves Tools
+**Tools:** Choose One: Dice set, Playing card set, Thieves tools, Disguise kit, Poisoner's kit or Forgery Kit
 
 **Saving Throws:** Dexterity, Intelligence
 
 **Skills:** _Choose 4:_ Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth
 
 **Languages:** Thieves Cant, one other Language of choice
-# Features
+## Features
 ---

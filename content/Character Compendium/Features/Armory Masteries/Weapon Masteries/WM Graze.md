@@ -1,0 +1,1 @@
+Whenever you miss a creature with your weapon attack roll, you deal damage equal to the ability modifier you used to make the attack roll.

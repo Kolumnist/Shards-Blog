@@ -1,0 +1,1 @@
+Increase the critical threshold by 1.

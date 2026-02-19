@@ -1,0 +1,1 @@
+Whenever you deal damage you additionally apply half your proficiency bonus (rounded up) as Bleed to the target.

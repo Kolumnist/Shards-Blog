@@ -1,18 +1,22 @@
 # Monk
-
+## Info
+---
 **Hit Point Die:** D8 per Monk level
 
-> **1st -** [[Martial Arts]], [[Unarmored Defense]], [[Armory Mastery]](2)
-> **2nd -** [[Focus]], [[Unarmored Movement]], [[Uncanny Metabolism]]
-> **3rd -** [[Deflect Attacks]], [[Monastic Way]]
-> **4th -** [[Slow Fall]], Choose one: Ability Score Improvement or General Feat
-> **5th -** [[Extra Attack]], [[Stunning Strike]], [[Bracing Strike]], [[Focused Aim]]
-> **6th -** [[Empowered Strikes]], [[Monastic Way| Monastic Way Feature]]
-> **7th -** [[Evasion]]
-> **8th -** Choose one: Ability Score Improvement or General Feat
-> **9th -** [[Acrobatic Movement]]
-> **10th -** [[Heightened Focus]], [[Self-Restoration]]
-# Proficiencies
+| Level  | Features                                                                   | **[[Armory Mastery]]** | **[[Unarmored Movement]]** |
+| :----: | :------------------------------------------------------------------------- | :--------------------: | -------------------------- |
+| **1**  | [[Martial Arts]], [[Unarmored Defense]]                                    |           0            | 0                          |
+| **2**  | [[Focus]], [[Unarmored Movement]], [[Uncanny Metabolism]]                  |           2            | 10                         |
+| **3**  | [[Deflect Attacks]], [[Monastic Way]]                                      |           2            | 10                         |
+| **4**  | [[Slow Fall]], Choose one: Ability Score Improvement or General Feat       |           2            | 10                         |
+| **5**  | [[Extra Attack]], [[Stunning Strike]], [[Bracing Strike]], [[Focused Aim]] |           3            | 10                         |
+| **6**  | [[Empowered Strikes]], [[Monastic Way\| Monastic Way Feature]]             |           3            | 15                         |
+| **7**  | [[Evasion]]                                                                |           3            | 15                         |
+| **8**  | Choose one: Ability Score Improvement or General Feat                      |           3            | 15                         |
+| **9**  | [[Acrobatic Movement]], [[Self-Restoration]]                               |           3            | 15                         |
+| **10** | [[Heightened Focus]]                                                       |           3            | 20                         |
+
+## Proficiencies
 ---
 **Armor:** -
 
@@ -23,5 +27,6 @@
 **Saving Throws:** Strength, Dexterity
 
 **Skills:** _Choose 2:_ Acrobatics, Athletics, History, Insight, Religion, or Stealth
-# Features
+
+## Features
 ---

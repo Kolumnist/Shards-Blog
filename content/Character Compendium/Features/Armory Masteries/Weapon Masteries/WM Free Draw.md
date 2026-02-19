@@ -1,0 +1,1 @@
+Un- and equipping does not cost an Item Interaction.

@@ -1,0 +1,1 @@
+While only wielding one weapon and no shield you gain +1 AC.

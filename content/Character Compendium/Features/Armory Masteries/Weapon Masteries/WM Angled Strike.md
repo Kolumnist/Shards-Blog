@@ -1,0 +1,1 @@
+Attacks ignore half *(rounded down)* of the AC that a shield provides.

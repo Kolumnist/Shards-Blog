@@ -1,0 +1,1 @@
+Increase the damage die by 1 step.

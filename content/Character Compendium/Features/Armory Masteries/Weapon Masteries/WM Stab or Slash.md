@@ -1,0 +1,1 @@
+Your attacks deal either Piercing or Slashing damage (your choice). Piercing damage deals applies 1 Bleed. Slashing damage increases the damage against targets with light or no armor by 2.

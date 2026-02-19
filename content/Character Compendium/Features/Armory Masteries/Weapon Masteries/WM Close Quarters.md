@@ -1,0 +1,1 @@
+Your ranged attacks do not suffer disadvantage due to the target being in melee range.

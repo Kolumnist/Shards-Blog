@@ -1,6 +1,6 @@
 ## Loose String
 ---
-#### [[Rogue]] <[[Thread as Thief]]>
+#### [[Rogue]] <[[Thief]]>
 
 #### [[Tabaxi]]
 

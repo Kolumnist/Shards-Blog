@@ -1,0 +1,1 @@
+This armor does not give disadvantage on Stealth checks.

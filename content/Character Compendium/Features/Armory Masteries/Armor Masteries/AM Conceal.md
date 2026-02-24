@@ -1,0 +1,1 @@
+This armor may be concealed by regular clothing.

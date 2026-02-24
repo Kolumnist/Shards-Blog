@@ -1,0 +1,1 @@
+Gain a random small boon.

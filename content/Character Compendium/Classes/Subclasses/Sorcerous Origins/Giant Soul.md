@@ -8,7 +8,7 @@ Your ancestors are the Hill Giants, giants inhabiting the lowest rank in The Ord
 Your ancestors are the Fire Giants. These mater craftsmen are known for their love of metal, and their inability to collect it. As such they often take slaves to use as miners. Their place in the Ordning is one that comes with respect, if not authority.
 
 **Frost Giants**
-Your ancestors are the Frost Giants, who value strength above all. These giants occupy the second lowest rank in The Ordning, and dominate the snowy tundras as brutish scavengers. These Giants served as berserkers ~~in the elemental war against dragonkind, and to this day frequently hunt white or silver dragons for sport.~~
+Your ancestors are the Frost Giants, who value strength above all. These giants occupy the second lowest rank in The Ordning, and dominate the snowy tundras as brutish scavengers.
 # Features
 ## Sorcerer Level 3
 ---

@@ -22,7 +22,7 @@
 
 **Weapons:** Simple Weapons
 
-**Tools:** _Choose_ any _3_ artistic, such as instruments
+**Tools:** _Choose_ any _3_ artistic tools, such as instruments
 
 **Saving Throws:** Charisma, Dexterity
 

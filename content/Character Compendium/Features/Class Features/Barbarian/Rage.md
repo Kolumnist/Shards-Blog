@@ -1,9 +1,11 @@
 ---
 class: "[[Barbarian]]"
 ---
-You can enter it as a **Bonus Action** if you aren’t wearing Heavy armor.
+You can enter it as a **Bonus Action**.
 
 You can enter your Rage the number of times shown below. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
+
+---
 
 While active, your Rage follows the rules below:
 
@@ -31,10 +33,7 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 
 | **Lvl** | **Rages** | **Rage  <br>Damage** |
 | ------- | --------- | -------------------- |
-| 1-2     | 2         | +2                   |
-| 3-5     | 3         | +2                   |
-| 6-8     | 4         | +2                   |
-| 9-11    | 4         | +3                   |
-| 12-15   | 5         | +3                   |
-| 16-19   | 6         | +4                   |
+| 1-5     | 2         | +2                   |
+| 6-11    | 4         | +3                   |
+| 12-19   | 6         | +4                   |
 | 20      | Unlimited | +8                   |

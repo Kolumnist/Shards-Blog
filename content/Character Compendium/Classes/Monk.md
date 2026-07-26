@@ -5,7 +5,7 @@
 
 | Level  | Features                                                                   | **[[Armory Mastery]]** | **[[Unarmored Movement]]** |
 | :----: | :------------------------------------------------------------------------- | :--------------------: | -------------------------- |
-| **1**  | [[Martial Arts]], [[Unarmored Defense]]                                    |           0            | 0                          |
+| **1**  | [[Martial Arts]], [[Unarmored Defense (Barbarian)]]                                    |           0            | 0                          |
 | **2**  | [[Focus]], [[Unarmored Movement]], [[Uncanny Metabolism]]                  |           2            | 10                         |
 | **3**  | [[Deflect Attacks]], [[Monastic Way]]                                      |           2            | 10                         |
 | **4**  | [[Slow Fall]], Choose one: Ability Score Improvement or General Feat       |           2            | 10                         |
@@ -15,7 +15,7 @@
 | **8**  | Choose one: Ability Score Improvement or General Feat                      |           3            | 15                         |
 | **9**  | [[Acrobatic Movement]], [[Self-Restoration]]                               |           3            | 15                         |
 | **10** | [[Heightened Focus]]                                                       |           3            | 20                         |
-
+- Monk: your Wisdom modifier
 ## Proficiencies
 ---
 **Armor:** -

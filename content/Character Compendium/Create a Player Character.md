@@ -30,12 +30,13 @@ You may also gain 1 additional bonus which can be a weapon, armor, shield or oth
 ---
 Your character's ability scores come from picking a Stat-Array and the modifiers your Race has.
 
-| ![[Shrimp]]   |
-| ------------- |
-| ![[Barnacle]] |
-| ![[Lobster]]  |
-| ![[Crab]]     |
+![[Shrimp]]
 
+![[Barnacle]]
+
+![[Lobster]]
+
+![[Crab]]
 ## Request Items
 ---
 As for items, those are determined by the DM based on your campaign's starting premise.

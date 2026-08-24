@@ -2,14 +2,14 @@ Start with a few choices:
 ## Select a Class
 ---
 
-|    Martial    |    Magic     |
-| :-----------: | :----------: |
-| [[Barbarian]] |   [[Bard]]   |
-|  [[Paladin]]  |  [[Cleric]]  |
-|  [[Fighter]]  |  [[Druid]]   |
-|   [[Monk]]    | [[Sorcerer]] |
-|  [[Ranger]]   | [[Warlock]]  |
-|   [[Rogue]]   |  [[Wizard]]  |
+|    Martial    |    Magic     |   Hybrid    |
+| :-----------: | :----------: | :---------: |
+| [[Barbarian]] |   [[Bard]]   | [[Paladin]] |
+|  [[Fighter]]  |  [[Cleric]]  | [[Ranger]]  |
+|   [[Monk]]    |  [[Druid]]   |             |
+|   [[Rogue]]   | [[Sorcerer]] |             |
+|               | [[Warlock]]  |             |
+|               |  [[Wizard]]  |             |
 ## Select a Race
 ---
 Take note of your racial features.

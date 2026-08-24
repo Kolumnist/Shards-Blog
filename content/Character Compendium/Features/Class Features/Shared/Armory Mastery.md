@@ -5,11 +5,9 @@ Your training with Weapons or Armors allows you to learn a specific amount of Ar
 
 Amount of Armory Mastery that a class can learn per level:
 
-| Class     | Level 2 | Level 5 | Level 7 |
-| --------- | :-----: | :-----: | :-----: |
-| Fighter   |    3    |    5    |    7    |
-| Barbarian |    3    |    4    |    4    |
-| Monk      |    2    |    3    |    3    |
-| Rogue     |    2    |    3    |    3    |
-| Ranger    |    2    |    2    |    3    |
-| Paladin   |    2    |    2    |    3    |
+| Type    | Level 1 | Level 4 | Level 7 |
+| ------- | :-----: | :-----: | :-----: |
+| Martial |    2    |    3    |    4    |
+| Hybrid  |    1    |    2    |    3    |
+| Magic   |    0    |    0    |    0    |
+

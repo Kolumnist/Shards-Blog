@@ -1,12 +1,22 @@
 You gain a Monk Way of your choice. The Way is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your way’s features that are of your Monk level or lower.
-## Mercy
 
-## Shadow
+---
+### [[Way of the Astral Self]]
+_Prerequisite for you to be from anywhere but Equilibrium_
+_CrownedHaley as Vulpa_
 
-## Long Death
+---
+### [[Way of the Open Hand]]
+_Lasse as Wushu_
 
-## [[Way of the Open Hand]]
+---
+### [[Way of the Mercy Warrior]]
 
-## Sun Soul
+---
+### [[Way of the Sun Soul]]
 _Xenia as Mayva_
-## Kensei
+
+---
+### [[Way of the Shadows]]
+
+---

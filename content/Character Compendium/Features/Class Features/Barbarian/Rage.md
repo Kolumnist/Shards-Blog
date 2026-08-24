@@ -13,7 +13,7 @@ While active, your Rage follows the rules below:
 You have Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 **Rage Damage**
-When you make an attack using Strength—with either a weapon or an Unarmed Strike—and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown down below.
+When you make an attack using Strength — with either a Weapon or an Unarmed Strike — and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown down below.
 
 **Strength Advantage**
 You have Advantage on Strength checks and Strength saving throws.
@@ -34,6 +34,5 @@ Each time the Rage is extended, it lasts until the end of your next turn. You ca
 | **Lvl** | **Rages** | **Rage  <br>Damage** |
 | ------- | --------- | -------------------- |
 | 1-5     | 2         | +2                   |
-| 6-11    | 4         | +3                   |
-| 12-19   | 6         | +4                   |
-| 20      | Unlimited | +8                   |
+| 6-9     | 4         | +3                   |
+| 10      | 6         | +4                   |

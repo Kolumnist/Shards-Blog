@@ -1,1 +1,1 @@
-Each creature of your choice has the damage resistance you gained from [[Storm Soul]] while the creature is in your Storm Emanation.
+Each creature of your choice has the damage resistance you gained from [[Storm Soul]] while the creature is in your Storm Emanation. Additionally your Storm Emenation enlarges by 5 feet.

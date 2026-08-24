@@ -3,18 +3,18 @@
 ---
 **Hit Point Die:** D10 per Fighter level
 
-| Level  | Features                                                                                             | **[[Armory Mastery]]** | **[[Second Wind]]** Charges |
-| :----: | :--------------------------------------------------------------------------------------------------- | :--------------------: | --------------------------- |
-| **1**  | [[Fighting Style]], [[Second Wind]]                                                                  |           0            | 2                           |
-| **2**  | [[Action Surge]], [[Tactical Mind]]                                                                  |           3            | 2                           |
-| **3**  | [[Trained Tactic]]                                                                                   |           3            | 2                           |
-| **4**  | Choose one: Ability Score Improvement or General Feat                                                |           3            | 3                           |
-| **5**  | [[Extra Attack]], [[Tactical Shift]]                                                                 |           5            | 3                           |
-| **6**  | [[Battle Hardened]], Choose one: Ability Score Improvement or General Feat                           |           5            | 3                           |
-| **7**  | [[Trained Tactic\|Trained Tactic Feature]]                                                           |           7            | 3                           |
-| **8**  | [[Fighting Style\|Additional Fighting Style]], Choose one: Ability Score Improvement or General Feat |           7            | 3                           |
-| **9**  | [[Indomitable]], [[Tactical Master]]                                                                 |           7            | 3                           |
-| **10** | [[Trained Tactic\|Trained Tactic Feature]]                                                           |           7            | 4                           |
+| Level  | Features                                                                                             | **[[Armory Mastery]]** | **[[Second Wind]]** Uses |
+| :----: | :--------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------ |
+| **1**  | [[Fighting Style]], [[Second Wind]]                                                                  |           2            | 2                        |
+| **2**  | [[Action Surge]], [[Tactical Mind]]                                                                  |           2            | 2                        |
+| **3**  | [[Trained Tactic]]                                                                                   |           2            | 2                        |
+| **4**  | Choose one: Ability Score Improvement or General Feat                                                |           3            | 3                        |
+| **5**  | [[Extra Attack]], [[Tactical Shift]]                                                                 |           3            | 3                        |
+| **6**  | [[Battle Hardened]], Choose one: Ability Score Improvement or General Feat                           |           3            | 3                        |
+| **7**  | [[Trained Tactic\|Trained Tactic Feature]]                                                           |           4            | 3                        |
+| **8**  | [[Fighting Style\|Additional Fighting Style]], Choose one: Ability Score Improvement or General Feat |           4            | 3                        |
+| **9**  | [[Indomitable]], [[Tactical Master]]                                                                 |           4            | 3                        |
+| **10** | [[Trained Tactic\|Trained Tactic Feature]]                                                           |           4            | 4                        |
 
 ## Proficiencies
 ---

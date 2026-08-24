@@ -2,7 +2,7 @@ _Prerequisite for you to be a Dwarf or from the Dwarven Icebergs_
 # Features
 ## Barbarian Level 3
 ---
-![[Battlerager Armor]]
+![[Battlerager Spikes]]
 ## Barbarian Level 6
 ---
 ![[Reckless Abandon]]

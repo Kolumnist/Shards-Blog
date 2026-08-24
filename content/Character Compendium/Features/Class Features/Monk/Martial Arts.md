@@ -13,7 +13,7 @@ You can make an Unarmed Strike as a Bonus Action.
 
 **Martial Arts Die**
 You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons.
-This die improves on Monk levels: 5(d8), 11(d10) and 17(d12)
+This die improves on Monk levels: 5(d8), 10(d10)
 
 **Dexterous Attacks**
 You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.

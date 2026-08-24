@@ -3,19 +3,19 @@
 ---
 **Hit Point Die:** D8 per Monk level
 
-| Level  | Features                                                                   | **[[Armory Mastery]]** | **[[Unarmored Movement]]** |
-| :----: | :------------------------------------------------------------------------- | :--------------------: | -------------------------- |
-| **1**  | [[Martial Arts]], [[Unarmored Defense (Barbarian)]]                                    |           0            | 0                          |
-| **2**  | [[Focus]], [[Unarmored Movement]], [[Uncanny Metabolism]]                  |           2            | 10                         |
-| **3**  | [[Deflect Attacks]], [[Monastic Way]]                                      |           2            | 10                         |
-| **4**  | [[Slow Fall]], Choose one: Ability Score Improvement or General Feat       |           2            | 10                         |
-| **5**  | [[Extra Attack]], [[Stunning Strike]], [[Bracing Strike]], [[Focused Aim]] |           3            | 10                         |
-| **6**  | [[Empowered Strikes]], [[Monastic Way\| Monastic Way Feature]]             |           3            | 15                         |
-| **7**  | [[Evasion]]                                                                |           3            | 15                         |
-| **8**  | Choose one: Ability Score Improvement or General Feat                      |           3            | 15                         |
-| **9**  | [[Acrobatic Movement]], [[Self-Restoration]]                               |           3            | 15                         |
-| **10** | [[Heightened Focus]]                                                       |           3            | 20                         |
-- Monk: your Wisdom modifier
+| Level  | Features                                                             | **[[Armory Mastery]]** | Arts Die | **[[Unarmored Movement]]** |
+| :----: | :------------------------------------------------------------------- | :--------------------: | :------: | -------------------------- |
+| **1**  | [[Martial Arts]], [[Unarmored Defense (Monk)]]                       |           2            |    D6    | 0                          |
+| **2**  | [[Focus]], [[Unarmored Movement]], [[Uncanny Metabolism]]            |           2            |    D6    | 10                         |
+| **3**  | [[Monastic Way]], [[Deflect Attacks]]                                |           2            |    D6    | 10                         |
+| **4**  | [[Slow Fall]], Choose one: Ability Score Improvement or General Feat |           3            |    D6    | 10                         |
+| **5**  | [[Extra Attack]], [[Stunning Strike]]                                |           3            |    D8    | 10                         |
+| **6**  | [[Monastic Way\| Monastic Way Feature]], [[Empowered Strikes]]       |           3            |    D8    | 15                         |
+| **7**  | [[Evasion]], [[Bracing Strike]], [[Focused Aim]]                     |           4            |    D8    | 15                         |
+| **8**  | Choose one: Ability Score Improvement or General Feat                |           4            |    D8    | 15                         |
+| **9**  | [[Acrobatic Movement]], [[Self-Restoration]]                         |           4            |    D8    | 15                         |
+| **10** | [[Heightened Focus]]                                                 |           4            |   D10    | 20                         |
+
 ## Proficiencies
 ---
 **Armor:** -
@@ -30,3 +30,34 @@
 
 ## Features
 ---
+![[Martial Arts]]
+
+![[Unarmored Defense (Monk)]]
+
+![[Focus]]
+
+![[Unarmored Movement]]
+
+![[Uncanny Metabolism]]
+
+![[Deflect Attacks]]
+
+![[Slow Fall]]
+
+![[Extra Attack]]
+
+![[Stunning Strike]]
+
+![[Empowered Strikes]]
+
+![[Evasion]]
+
+![[Bracing Strike]]
+
+![[Focused Aim]]
+
+![[Acrobatic Movement]]
+
+![[Self-Restoration]]
+
+![[Heightened Focus]]

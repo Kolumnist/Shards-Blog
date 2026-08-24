@@ -4,16 +4,16 @@
 
 | Level  | Features                                              | **[[Armory Mastery]]** | [[Sneak Attack]] Damage |
 | :----: | :---------------------------------------------------- | :--------------------: | :---------------------: |
-| **1**  | [[Expertise]], [[Sneak Attack]]                       |           0            |           1d6           |
+| **1**  | [[Expertise]], [[Sneak Attack]]                       |           2            |           1d6           |
 | **2**  | [[Cunning Action]]                                    |           2            |           1d6           |
 | **3**  | [[Chosen Thread]], [[Steady Aim]]                     |           2            |           2d6           |
-| **4**  | Choose one: Ability Score Improvement or General Feat |           2            |           2d6           |
+| **4**  | Choose one: Ability Score Improvement or General Feat |           3            |           2d6           |
 | **5**  | [[Cunning Strike]], [[Uncanny Dodge]]                 |           3            |           3d6           |
 | **6**  | [[Expertise]]                                         |           3            |           3d6           |
-| **7**  | [[Evasion]], [[Reliable Talent]]                      |           3            |           4d6           |
-| **8**  | Choose one: Ability Score Improvement or General Feat |           3            |           4d6           |
-| **9**  | [[Chosen Thread\|Chosen Thread Feature]]              |           3            |           5d6           |
-| **10** | Choose one: Ability Score Improvement or General Feat |           3            |           5d6           |
+| **7**  | [[Evasion]], [[Reliable Talent]]                      |           4            |           4d6           |
+| **8**  | Choose one: Ability Score Improvement or General Feat |           4            |           4d6           |
+| **9**  | [[Chosen Thread\|Chosen Thread Feature]]              |           4            |           5d6           |
+| **10** | Choose one: Ability Score Improvement or General Feat |           4            |           5d6           |
 ## Proficiencies
 ---
 **Armor:** Light Armor

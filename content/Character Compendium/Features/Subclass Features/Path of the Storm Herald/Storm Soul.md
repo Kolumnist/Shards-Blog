@@ -1,4 +1,4 @@
-The storm grants you benefits even when you are not raging. The benefits are based on the environment you chose for your Storm Aura.
+The storm grants you benefits even stronger benefits when entering your rage. The benefits are based on the environment. The last chosen environments effect will remain for 2 additional hours even after your rage ends.
 
 **Desert** 
 You gain resistance to fire damage, and you don't suffer the effects of extreme heat. Moreover, as an Action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire.

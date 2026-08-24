@@ -1,3 +1,5 @@
+**Special**
+
 Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.
 
 **Addle** 

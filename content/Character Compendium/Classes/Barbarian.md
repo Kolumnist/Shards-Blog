@@ -3,19 +3,18 @@
 ---
 **Hit Point Die:** D12 per Barbarian level
 
-| Level  | Features                                                                                                      | **[[Armory Mastery]]** |
-| :----: | :------------------------------------------------------------------------------------------------------------ | :--------------------: |
-| **1**  | [[Rage]], [[Unarmored Defense (Barbarian)]]                                                                   |           0            |
-| **2**  | [[Danger Sense]], [[Reckless Attack]]                                                                         |           3            |
-| **3**  | [[Primal Path]], [[Primal Knowledge]]                                                                         |           3            |
-| **4**  | Choose one: Ability Score Improvement or General Feat                                                         |           3            |
-| **5**  | [[Extra Attack]], [[Fast Movement]]                                                                           |           4            |
-| **6**  | [[Primal Path\|Primal Path Feature]]                                                                          |           4            |
-| **7**  | [[Feral Instinct]], [[Instinctive Pounce]], [[Battle Hardened]]                                               |           4            |
-| **8**  | Choose one: Ability Score Improvement or General Feat                                                         |           4            |
-| **9**  | [[Brutal Strike]], [[3 - Equilibrium/Character Compendium/Features/Class Features/Barbarian/Adrenaline Rush]] |           4            |
-| **10** | [[Primal Path\|Primal Path Feature]]                                                                          |           4            |
-[[Feral Charge]]
+| Level  | Features                                                  | **[[Armory Mastery]]** | [[Rage]] Damage bonus | [[Rage]] uses |
+| :----: | :-------------------------------------------------------- | :--------------------: | :-------------------: | :-----------: |
+| **1**  | [[Rage]], [[Unarmored Defense (Barbarian)]]               |           2            |          +2           |       2       |
+| **2**  | [[Danger Sense]], [[Reckless Attack]]                     |           2            |          +2           |       2       |
+| **3**  | [[Primal Path]], [[Primal Knowledge]]                     |           2            |          +2           |       2       |
+| **4**  | Choose one: Ability Score Improvement or General Feat     |           3            |          +2           |       2       |
+| **5**  | [[Extra Attack]], [[Fast Movement]]                       |           3            |          +2           |       2       |
+| **6**  | [[Primal Path\|Primal Path Feature]], [[Battle Hardened]] |           3            |          +3           |       4       |
+| **7**  | [[Feral Instinct]], [[Instinctive Pounce]]                |           4            |          +3           |       4       |
+| **8**  | Choose one: Ability Score Improvement or General Feat     |           4            |          +3           |       4       |
+| **9**  | [[Brutal Strike]], [[Raging Engage]]                      |           4            |          +3           |       4       |
+| **10** | [[Primal Path\|Primal Path Feature]], [[Relentless Rage]] |           4            |          +4           |       6       |
 ## Proficiencies
 ---
 **Armor:** Light Armor, Medium Armor, Shields
@@ -24,12 +23,10 @@
 
 **Saving Throws:** Strength, Constitution
 
-**Skills:** _Choose 2:_ Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival.
+**Skills:** _Choose 2:_ Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival
 
 ## Features
 ---
-![[Feral Charge]]
-
 ![[Rage]]
 
 ![[Unarmored Defense (Barbarian)]]
@@ -52,7 +49,9 @@
 
 ![[Brutal Strike]]
 
-![[3 - Equilibrium/Character Compendium/Features/Class Features/Barbarian/Adrenaline Rush]]
+![[Raging Engage]]
+
+![[Relentless Rage]]
 
 ## Subclass
 ---

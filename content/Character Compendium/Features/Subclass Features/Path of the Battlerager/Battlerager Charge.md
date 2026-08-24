@@ -1,1 +1,3 @@
-You can take the Dash Action as a bonus action while you are raging. Additionally the [[Feral Charge]] Attack counts as a Free Action, if you use the Dash Action this way.
+**Bonus Action**
+
+You can take the Dash Action as a bonus action while you are raging. At the end of your movement while dashing, you may make an attack with your spikes or try to grapple a creature.
